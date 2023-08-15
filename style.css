@@ -117,7 +117,10 @@ button{
     margin: 4px 2px;
     border-radius: 15px;
 }
-
+.hero-text button :hover{
+    color: rgb(0,75,75);
+    font-weight: bolder;
+}
 
 .top20{
     display: flex;
